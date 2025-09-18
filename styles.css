@@ -1,0 +1,42 @@
+/*
+Author: Taosheng li
+Date: 2025-09-18 
+*/
+body {
+  margin: 0;
+  padding: 0;
+}
+.main-content {
+  display: flex;
+  background-color: #19283f;
+  color: whitesmoke;
+}
+.poster {
+  margin: 20px 40px;
+}
+#poster {
+  width: 250px;
+  height: auto;
+}
+
+.introduction {
+  display: flex;
+  flex-direction: column;
+}
+
+.introduction h1 {
+  margin: 20px 0;
+  padding: 0;
+}
+
+.introduction a {
+  color: rgb(175, 179, 182);
+}
+
+.introduction a:hover {
+  color: aliceblue;
+}
+
+.sub-content {
+  margin: 0 40px;
+}
