@@ -1,0 +1,24 @@
+/*
+Author: Taosheng Li
+Date: 2025-09-18 
+*/
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  align-items: center;
+  justify-content: center;
+  background-color: #eee5e9;
+  color: #d64933;
+  text-align: center;
+}
+
+.text {
+  margin: 20px 0 0 30px;
+}
+.text p {
+  margin: 0 0 10px 0;
+}
